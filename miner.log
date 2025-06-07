@@ -1,0 +1,70 @@
+nohup: ignoring input
+
+         **********  cpuminer-opt 25.3  ********** 
+     A CPU miner with multi algo support and optimized for CPUs
+     with AVX512, SHA, AES and NEON extensions by JayDDee.
+     BTC donation address: 12tdvfF7KmAsihBXQXynT6E6th2c2pByTT
+
+CPU: Intel(R) Xeon(R) Platinum 8488C
+SW built on Jun  7 2025 with GCC-13.3.0 Linux
+CPU features:  AVX512 VAES SHA256
+SW features:   AVX512 VAES SHA256
+[2025-06-07 19:25:14] CPU affinity [!!!!!!!!!!!!!!!!][0m
+[2025-06-07 19:25:14][01;37m CPU temp: curr [31m4294694 C[01;37m max 0, Freq: 0.000/0.000 GHz[0m
+[2025-06-07 19:25:14] 16 of 16 miner threads started using 'sha256d' algorithm[0m
+[2025-06-07 19:25:14][36m sha256d: http://127.0.0.1:8332[0m
+                     [01;37m Periodic Report     584942417355y130d        0m00s[0m
+                      Share rate        -0.00/min     0.00/min[0m
+                      Hash rate         -0.00h/s      0.00h/s   (0.00h/s)[0m
+                      Submitted             0            0[0m
+                      Accepted              0            0        0.0%[0m
+                      Hi/Lo Share Diff  0 /  9e+99[0m
+[2025-06-07 19:25:14][36m New Block 179, Tx 0, Net Diff 1, Ntime 6844921a[0m
+                      Miner TTF @ 300.00 h/s 165d16h, Net TTF @ 11.60 Mh/s 6m10s[0m
+[2025-06-07 19:25:21][01;37m CPU temp: curr [31m4294694 C[01;37m max 4294694, Freq: 0.000/0.000 GHz[0m
+[2025-06-07 19:25:21][36m New Work: Block 179, Tx 0, Net Diff 1, Ntime 68449221[0m
+                      Miner TTF @ 310.51 Mh/s 0m13s, Net TTF @ 11.60 Mh/s 6m10s[0m
+[2025-06-07 19:25:24] 1 Submitted Diff 1.8643, Block 179, Ntime 21924468[0m
+[2025-06-07 19:25:24] 1 [01;32mA1 [0mS0 [0mR0 [01;35mBLOCK SOLVED 1[0m, 10.006 sec (1ms)[0m
+[2025-06-07 19:25:24][36m New Block 180, Tx 0, Net Diff 1, Ntime 68449224[0m
+                      Miner TTF @ 242.64 Mh/s 0m17s, Net TTF @ 11.45 Mh/s 6m15s[0m
+[2025-06-07 19:25:29][01;37m CPU temp: curr [31m4294694 C[01;37m max 4294694, Freq: 0.000/0.000 GHz[0m
+[2025-06-07 19:25:29][36m New Work: Block 180, Tx 0, Net Diff 1, Ntime 68449229[0m
+                      Miner TTF @ 258.45 Mh/s 0m16s, Net TTF @ 11.45 Mh/s 6m15s[0m
+[2025-06-07 19:25:34][36m New Work: Block 180, Tx 0, Net Diff 1, Ntime 6844922e[0m
+                      Miner TTF @ 237.76 Mh/s 0m18s, Net TTF @ 11.45 Mh/s 6m15s[0m
+[2025-06-07 19:25:38] 2 Submitted Diff 2.4203, Block 180, Ntime 2e924468[0m
+[2025-06-07 19:25:38] 2 [01;32mA2 [0mS0 [0mR0 [01;35mBLOCK SOLVED 2[0m, 13.556 sec (0ms)[0m
+[2025-06-07 19:25:38][01;37m CPU temp: curr [31m4294694 C[01;37m max 4294694, Freq: 0.000/0.000 GHz[0m
+[2025-06-07 19:25:38][36m New Block 181, Tx 0, Net Diff 1, Ntime 68449232[0m
+                      Miner TTF @ 232.19 Mh/s 0m18s, Net TTF @ 11.45 Mh/s 6m14s[0m
+[2025-06-07 19:25:43][36m New Work: Block 181, Tx 0, Net Diff 1, Ntime 68449237[0m
+                      Miner TTF @ 245.99 Mh/s 0m17s, Net TTF @ 11.45 Mh/s 6m14s[0m
+[2025-06-07 19:25:48][01;37m CPU temp: curr [31m4294694 C[01;37m max 4294694, Freq: 0.000/0.000 GHz[0m
+[2025-06-07 19:25:48][36m New Work: Block 181, Tx 0, Net Diff 1, Ntime 6844923c[0m
+                      Miner TTF @ 267.27 Mh/s 0m16s, Net TTF @ 11.45 Mh/s 6m14s[0m
+[2025-06-07 19:25:53][36m New Work: Block 181, Tx 0, Net Diff 1, Ntime 68449241[0m
+                      Miner TTF @ 258.62 Mh/s 0m16s, Net TTF @ 11.45 Mh/s 6m14s[0m
+[2025-06-07 19:25:58][01;37m CPU temp: curr [31m4294694 C[01;37m max 4294694, Freq: 0.000/0.000 GHz[0m
+[2025-06-07 19:25:58][36m New Work: Block 181, Tx 0, Net Diff 1, Ntime 68449246[0m
+                      Miner TTF @ 242.07 Mh/s 0m17s, Net TTF @ 11.45 Mh/s 6m14s[0m
+[2025-06-07 19:26:03][36m New Work: Block 181, Tx 0, Net Diff 1, Ntime 6844924b[0m
+                      Miner TTF @ 232.89 Mh/s 0m18s, Net TTF @ 11.45 Mh/s 6m14s[0m
+[2025-06-07 19:26:08][01;37m CPU temp: curr [31m4294694 C[01;37m max 4294694, Freq: 0.000/0.000 GHz[0m
+[2025-06-07 19:26:08][36m New Work: Block 181, Tx 0, Net Diff 1, Ntime 68449250[0m
+                      Miner TTF @ 233.76 Mh/s 0m18s, Net TTF @ 11.45 Mh/s 6m14s[0m
+[2025-06-07 19:26:09] 3 Submitted Diff 8.3976, Block 181, Ntime 50924468[0m
+[2025-06-07 19:26:09] 3 [01;32mA3 [0mS0 [0mR0 [01;35mBLOCK SOLVED 3[0m, 30.918 sec (0ms)[0m
+[2025-06-07 19:26:09][36m New Block 182, Tx 0, Net Diff 1, Ntime 68449251[0m
+                      Miner TTF @ 278.64 Mh/s 0m15s, Net TTF @ 11.46 Mh/s 6m14s[0m
+[2025-06-07 19:26:10] 4 Submitted Diff 2.0395, Block 182, Ntime 51924468[0m
+[2025-06-07 19:26:10] 4 [01;32mA4 [0mS0 [0mR0 [01;35mBLOCK SOLVED 4[0m, 0.965 sec (1ms)[0m
+[2025-06-07 19:26:10][36m New Block 183, Tx 0, Net Diff 1, Ntime 68449252[0m
+                      Miner TTF @ 331.38 Mh/s 0m12s, Net TTF @ 11.46 Mh/s 6m14s[0m
+[2025-06-07 19:26:15][01;37m CPU temp: curr [31m4294694 C[01;37m max 4294694, Freq: 0.000/0.000 GHz[0m
+[2025-06-07 19:26:15][36m New Work: Block 183, Tx 0, Net Diff 1, Ntime 68449257[0m
+                      Miner TTF @ 333.76 Mh/s 0m12s, Net TTF @ 11.46 Mh/s 6m14s[0m
+[2025-06-07 19:26:17] 5 Submitted Diff 1.9675, Block 183, Ntime 57924468[0m
+[2025-06-07 19:26:17] 5 [01;32mA5 [0mS0 [0mR0 [01;35mBLOCK SOLVED 5[0m, 6.957 sec (1ms)[0m
+[2025-06-07 19:26:17][36m New Block 184, Tx 0, Net Diff 1, Ntime 68449259[0m
+                      Miner TTF @ 278.73 Mh/s 0m15s, Net TTF @ 11.46 Mh/s 6m14s[0m
